@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: eats-distancia-service
+Bundle-SymbolicName: eats-distancia-service
+Bundle-Version: 1.0.0.qualifier
+Export-Package: br.com.caelum.eats.exception,
+ br.com.caelum.eats.distancia,
+ br.com.caelum.eats

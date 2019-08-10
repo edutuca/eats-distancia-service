@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: micro8520
+Build-Jdk: 11.0.3
+Implementation-Title: eats-pagamento-service
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: br.com.caelum
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/eats-pagamento-service
+Created-By: Maven Integration for Eclipse
+
